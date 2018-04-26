@@ -14,6 +14,7 @@ const Header = ({ name, title }) => (
         {name} | {title}
       </span>
     </Link>
+    <img src={logo} />
   </header>
 );
 
@@ -75,7 +76,6 @@ class TemplateWrapper extends Component {
         <Header
           name={data.site.siteMetadata.name}
           title={data.site.siteMetadata.title}
-          date={data.site.siteMetadata.date}
         />
         <Swipeable
           onSwipingLeft={this.swipeLeft}
