@@ -1,10 +1,12 @@
-import React from 'react';
+import React from "react";
 
 export default ({ data, pathContext, transition }) => (
-  <div
-    style={transition && transition.style}
-    dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
-  />
+  <div>
+    <div
+      style={transition && transition.style}
+      dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }}
+    />
+  </div>
 );
 
 export const pageQuery = graphql`

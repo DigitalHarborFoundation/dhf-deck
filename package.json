@@ -7,25 +7,29 @@
     "babel-plugin-include": "^1.2.0",
     "gatsby": "^1.9.192",
     "gatsby-cli": "^1.1.39",
+    "gatsby-image": "^1.0.47",
     "gatsby-link": "^1.6.36",
     "gatsby-plugin-offline": "^1.0.13",
     "gatsby-plugin-postcss-sass": "^1.0.16",
     "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-sharp": "^1.6.43",
     "gatsby-remark-smartypants": "^1.4.10",
     "gatsby-source-filesystem": "^1.5.18",
     "gatsby-transformer-remark": "^1.7.31",
+    "gatsby-transformer-sharp": "^1.6.23",
     "history": "^4.7.2",
     "react-swipeable": "^4.2.0",
     "react-transition-group": "^2.2.1"
   },
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format":
-      "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {

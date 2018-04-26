@@ -4,16 +4,16 @@ import Link, { navigateTo } from "gatsby-link";
 import Helmet from "react-helmet";
 import Swipeable from "react-swipeable";
 
+import logo from "../images/dhf-anchor-logo.jpg";
 import "./index.css";
 
-const Header = ({ name, title, date }) => (
+const Header = ({ name, title }) => (
   <header>
     <Link to="/1">
       <span>
         {name} | {title}
       </span>
     </Link>
-    <time>{date}</time>
   </header>
 );
 
@@ -101,7 +101,6 @@ export const pageQuery = graphql`
       siteMetadata {
         name
         title
-        date
       }
     }
     allMarkdownRemark {
