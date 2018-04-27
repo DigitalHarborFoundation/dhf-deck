@@ -36,6 +36,6 @@ module.exports = {
         precision: 8,
       },
     },
-    `gatsby-plugin-offline`,
+    // `gatsby-plugin-offline`,
   ],
 };
