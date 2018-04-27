@@ -1,0 +1,2 @@
+webpackJsonp([0x7e448ae76bc6],{357:function(e,s){e.exports={data:{markdownRemark:{html:"<h1>Ask Don’t Accuse</h1>\n<p>If you don’t understand something, ask before assuming.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/26.md"}}}});
+//# sourceMappingURL=path---26-f914ec4f94fc2f2453f1.js.map

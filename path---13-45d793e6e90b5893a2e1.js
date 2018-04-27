@@ -1,0 +1,2 @@
+webpackJsonp([0xd14b01e5042b],{343:function(a,t){a.exports={data:{markdownRemark:{html:"<h1>Accessibility vs Applicability</h1>\n<p>Balance what is most avialable and approachable with what is most useful in real-world situation. Start with accessibility but always move towards applicability.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/13.md"}}}});
+//# sourceMappingURL=path---13-45d793e6e90b5893a2e1.js.map

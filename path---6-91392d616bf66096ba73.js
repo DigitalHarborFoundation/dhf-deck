@@ -1,0 +1,2 @@
+webpackJsonp([0x927cc07429d8],{374:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>Three Before Me</h1>\n<p>Whenever you have a question, do three things before asking up.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/6.md"}}}});
+//# sourceMappingURL=path---6-91392d616bf66096ba73.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x717e66409366],{376:function(s,a){s.exports={data:{markdownRemark:{html:'<h1><span class="slide-emphasis">DEFAULT TO OPEN</span></h1>'}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/8.md"}}}});
+//# sourceMappingURL=path---8-efa4349a857cc7bc1d8c.js.map

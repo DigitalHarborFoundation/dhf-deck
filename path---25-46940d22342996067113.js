@@ -1,0 +1,2 @@
+webpackJsonp([74221981561411],{356:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>Flexible to Improve</h1>\n<p>In every situation there is room for improvement, be flexible enough to find ways to bend towards it.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/25.md"}}}});
+//# sourceMappingURL=path---25-46940d22342996067113.js.map

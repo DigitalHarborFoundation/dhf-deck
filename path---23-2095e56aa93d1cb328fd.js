@@ -1,0 +1,2 @@
+webpackJsonp([3119991001390],{354:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>Experience Matters, Listen and Learn from It</h1>\n<p>When facing a decision show as much deference to experience as it takes to learn from it, regardless of the source.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/23.md"}}}});
+//# sourceMappingURL=path---23-2095e56aa93d1cb328fd.js.map

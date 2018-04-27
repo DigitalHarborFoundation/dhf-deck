@@ -1,0 +1,2 @@
+webpackJsonp([0xc262eb389e36],{346:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>Work is for the Willing</h1>\n<p>For those willing to do what is needed needed, not just what they want, there will always be (and often an abudance of) work. For thos who only want to do certain things in specific ways, there is often a decreasing amount of work to be had.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/16.md"}}}});
+//# sourceMappingURL=path---16-1498d4ba854e67af5920.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x8f0ce58d3892],{350:function(s,a){s.exports={data:{markdownRemark:{html:'<h1><span class="slide-emphasis">ALWAYS BE LEARNING</span></h1>\n<!-- # Work is for the Willing\n\nFor what is <span class="slide-emphasis">needed</span>, not for what you want. -->'}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/2.md"}}}});
+//# sourceMappingURL=path---2-7c6a64089c2b717f0103.js.map

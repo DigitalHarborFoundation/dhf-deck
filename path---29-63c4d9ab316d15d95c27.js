@@ -1,0 +1,2 @@
+webpackJsonp([38504802915796],{360:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>Effective &#x26; Efficient</h1>\n<p>You need to be both, eventually. But if you can only be one, be effective.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/29.md"}}}});
+//# sourceMappingURL=path---29-63c4d9ab316d15d95c27.js.map

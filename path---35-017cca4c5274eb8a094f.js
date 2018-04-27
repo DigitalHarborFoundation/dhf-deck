@@ -1,0 +1,2 @@
+webpackJsonp([0xba52fa68887a],{367:function(o,a){o.exports={data:{markdownRemark:{html:"<h1>Horizontal Collaboration</h1>\n<p>Divisions help to structure organizations but should never become barriers to collaborations. Seek for ways programs can work together.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/35.md"}}}});
+//# sourceMappingURL=path---35-017cca4c5274eb8a094f.js.map

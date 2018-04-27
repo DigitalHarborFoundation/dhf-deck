@@ -1,0 +1,2 @@
+webpackJsonp([0x9f870d451fa0],{341:function(o,e){o.exports={data:{markdownRemark:{html:"<h1>No One-Word Answers</h1>\n<p>Questions require more than one word to ask. Answers should proportionally take more than one word to answer, if only to say thank you.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/11.md"}}}});
+//# sourceMappingURL=path---11-55dd0835edc02e8585da.js.map

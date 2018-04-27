@@ -1,0 +1,2 @@
+webpackJsonp([95702347774680],{364:function(t,e){t.exports={data:{markdownRemark:{html:"<h1>Change is the Only Constant</h1>\n<p>Don’t get complacent. Don’t expect things to stay the same. Don’t resist growth.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/32.md"}}}});
+//# sourceMappingURL=path---32-d62e1c74d5094795551f.js.map

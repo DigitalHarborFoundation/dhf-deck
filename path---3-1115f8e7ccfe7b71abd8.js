@@ -1,0 +1,2 @@
+webpackJsonp([0xa66b96fba949],{361:function(o,e){o.exports={data:{markdownRemark:{html:"<h1>Always Be Learning</h1>\n<p>Not knowing something now is never a reason to not know something tomorrow. Don’t be lazy, be learning.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/3.md"}}}});
+//# sourceMappingURL=path---3-1115f8e7ccfe7b71abd8.js.map

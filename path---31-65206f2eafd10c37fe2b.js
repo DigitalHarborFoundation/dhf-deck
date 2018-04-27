@@ -1,0 +1,2 @@
+webpackJsonp([0x603fcdf858ca],{363:function(o,a){o.exports={data:{markdownRemark:{html:"<h1>No Place for Hypocrisy</h1>\n<p>A small dose does a lot of damage. Don’t give any room for it.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/31.md"}}}});
+//# sourceMappingURL=path---31-65206f2eafd10c37fe2b.js.map

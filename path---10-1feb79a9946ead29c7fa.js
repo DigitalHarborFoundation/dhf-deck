@@ -1,0 +1,2 @@
+webpackJsonp([1392953483005],{340:function(o,a){o.exports={data:{markdownRemark:{html:"<h1>Read Your Audience</h1>\n<p>Although it shouldn’t change what you say, who you are speaking to should change how you say it.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/10.md"}}}});
+//# sourceMappingURL=path---10-1feb79a9946ead29c7fa.js.map

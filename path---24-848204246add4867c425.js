@@ -1,0 +1,2 @@
+webpackJsonp([0x76c227e43eca],{355:function(e,r){e.exports={data:{markdownRemark:{html:"<h1>Progress More than Position</h1>\n<p>Where you are currently is only temporary. Where you are going (in both speed and direction) determines where you will be, and that matters a lot more the longer the time apperature. Expect progress (not perfection) from yourself and others, every day.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/24.md"}}}});
+//# sourceMappingURL=path---24-848204246add4867c425.js.map

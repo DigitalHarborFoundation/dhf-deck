@@ -1,0 +1,2 @@
+webpackJsonp([0x8aff32ce4375],{369:function(e,t){e.exports={data:{markdownRemark:{html:"<h1>Structural vs. Temporary</h1>\n<p>Identify if a stressor is the result of a specific situation or underlying condition. Endure the temporary and fix the forever.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/37.md"}}}});
+//# sourceMappingURL=path---37-094a9d0437b5d5ccfa49.js.map

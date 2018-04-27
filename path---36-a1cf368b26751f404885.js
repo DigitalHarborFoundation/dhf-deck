@@ -1,0 +1,2 @@
+webpackJsonp([0xed6288c26034],{368:function(e,n){e.exports={data:{markdownRemark:{html:"<h1>Shared Consciousness</h1>\n<p>Knowing what someone else would do without asking requires empathy, understanding, and an alignment to values.</p>"}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/36.md"}}}});
+//# sourceMappingURL=path---36-a1cf368b26751f404885.js.map

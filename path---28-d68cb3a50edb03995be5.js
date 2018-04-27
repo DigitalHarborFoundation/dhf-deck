@@ -1,0 +1,2 @@
+webpackJsonp([0xfb05be8f8f8d],{359:function(s,a){s.exports={data:{markdownRemark:{html:'<h1><span class="slide-emphasis">EFFECTIVE &#x26; EFFICIENT</span></h1>'}},pathContext:{absolutePath:"/Users/jonathan-dhf/Desktop/projects/web-projects/dhf-deck/src/pages/28.md"}}}});
+//# sourceMappingURL=path---28-d68cb3a50edb03995be5.js.map
