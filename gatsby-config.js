@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     name: `Digital Harbor Foundation`,
-    title: `DHF Culture Slide Deck`
+    title: `Our Culture`
     // date: `April 24, 2018`
   },
   plugins: [

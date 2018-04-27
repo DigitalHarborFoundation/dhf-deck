@@ -11,7 +11,7 @@ const Header = ({ name, title }) => (
   <header>
     <Link to="/1">
       <span>
-        {name} | {title}
+        {name} <span className="header-emphasis"> | </span> {title}
       </span>
     </Link>
     <img src={logo} />
