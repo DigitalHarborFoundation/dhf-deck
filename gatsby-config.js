@@ -4,6 +4,7 @@ module.exports = {
     title: `Our Culture`,
     // date: `April 24, 2018`
   },
+  pathPrefix: '/dhf-deck',
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-offline`,
