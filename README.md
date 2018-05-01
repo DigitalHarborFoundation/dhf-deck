@@ -10,6 +10,7 @@ Deployed link: https://digitalharborfoundation.github.io/dhf-deck/
 
 ## TODO List
 
+* **HIGH PRIORITY:** Fix media queries for mobile. These look really bad.
 * Add slide templates for images
 * Add additional slide template for first slide (similar to what Guillermo Rauch's deck does -- linked below)
 * Find way to semantically name the pages while still having arrows work
